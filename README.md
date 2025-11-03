@@ -33,13 +33,13 @@ By analysing demographic and social data, the study identifies patterns in age d
 
 📄 File Included
 	•	Mock Census report.docx — Full written report and analysis
-  •	Full Jupyter Notebook with code, analysis and visualisation
+  	•	Full Jupyter Notebook with code, analysis and visualisation
 
 ⸻
 
 🧩 Key Insights
 	•	Population growth is driven by both natural increase and positive migration.
-	•	Over 30% of residents commute for work or education — justifying a train station.
+	•	Over 30% of residents commute for work or education; justifying a train station.
 	•	Housing capacity is underutilised, indicating no immediate pressure to expand housing stock.
 	•	Rising birth rates and active age distribution (20–45) indicate sustained population growth.
 	•	Infrastructure investment is critical to manage future congestion, waste, and public service demands.
@@ -49,7 +49,7 @@ By analysing demographic and social data, the study identifies patterns in age d
 🌍 Impact
 
 The project highlights how demographic analytics can inform real-world decision making.
-By modelling this mock census, local authorities can better anticipate population trends, infrastructure needs, and environmental implications — leading to smarter, sustainable growth.
+By modelling this mock census, local authorities can better anticipate population trends, infrastructure needs, and environmental implications; leading to smarter, sustainable growth.
 
 ⸻
 
