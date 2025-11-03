@@ -1,7 +1,7 @@
 # Mock-Census-Report
 
 This project presents a data-driven mock census analysis for a fictional UK town. The goal is to simulate how real census data can inform urban planning and government policy decisions.
-Using Python, data visualisation, and statistical inference, the project explores population characteristics, housing use, and labour patterns — leading to clear, evidence-based recommendations.
+Using Python, data visualisation, and statistical inference, the project explores population characteristics, housing use, and labour patterns, leading to clear, evidence-based recommendations.
 
 ⸻
 
@@ -29,6 +29,7 @@ By analysing demographic and social data, the study identifies patterns in age d
 	2.	Exploratory Analysis: Visualisation through histograms, bar plots, and population pyramids to reveal demographic structures.
 	3.	Statistical Analysis: Computation of birth/death rates, migration patterns, and employment proportions per 100,000 residents.
 	4.	Inference: Drawing actionable insights to guide infrastructure and policy recommendations.
+	
 ⸻
 
 📄 File Included
