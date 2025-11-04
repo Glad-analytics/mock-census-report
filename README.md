@@ -1,60 +1,86 @@
 # Mock-Census-Report
 
-This project presents a data-driven mock census analysis for a fictional UK town. The goal is to simulate how real census data can inform urban planning and government policy decisions.
-Using Python, data visualisation, and statistical inference, the project explores population characteristics, housing use, and labour patterns, leading to clear, evidence-based recommendations.
+This project presents a data-driven mock census analysis for a fictional UK town.  
+The work simulates how real census data can support government decision-making on public infrastructure, transport planning, and community development.  
+Using Python, data visualisation, and statistical inference, the project evaluates population characteristics, housing patterns, employment, and commuting behaviour to form evidence-based recommendations.
 
-⸻
+---
 
-🎯 Project Overview
+## 🎯 Project Overview
 
-The project investigates two main planning questions:
-	1.	What should be built on the town’s unoccupied plot of land?
-	2.	Which sector should receive future infrastructure investment?
+The analysis focuses on two planning questions:
 
-By analysing demographic and social data, the study identifies patterns in age distribution, employment, commuting, housing, and fertility to recommend:
-	•	The construction of a train station to serve a growing commuter population.
-	•	Investment in general infrastructure (waste management, healthcare, and road maintenance) to sustain future population growth.
+1. **What should be built on the town’s unoccupied plot of land?**  
+2. **Which sector should receive future infrastructure investment?**
 
-⸻
+Based on demographic and social indicators, the recommended actions are:
 
-🧰 Tools and Libraries
-	•	Python (Jupyter Notebook) — Data processing and visualisation
-	•	Libraries: pandas, numpy, matplotlib, seaborn, scipy.stats
-	•	Microsoft Word — Report compilation and presentation
+- ✅ Construction of a **train station** to support a significant commuter population  
+- ✅ Investment in **general infrastructure**, including waste management, healthcare, and road maintenance, to accommodate projected population growth
 
-⸻
+---
 
-📊 Analytical Approach
-	1.	Data Cleaning: Removal of missing or invalid values, ensuring accurate variable formats.
-	2.	Exploratory Analysis: Visualisation through histograms, bar plots, and population pyramids to reveal demographic structures.
-	3.	Statistical Analysis: Computation of birth/death rates, migration patterns, and employment proportions per 100,000 residents.
-	4.	Inference: Drawing actionable insights to guide infrastructure and policy recommendations.
-	
-⸻
+## 🧰 Tools and Libraries
 
-📄 File Included
-	•	Mock Census report.docx — Full written report and analysis
-  	•	Full Jupyter Notebook with code, analysis and visualisation
+- **Python (Jupyter Notebook)** — data processing and visualisation  
+- **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy.stats`  
+- **Microsoft Word** — written report compilation  
 
-⸻
+---
 
-🧩 Key Insights
-	•	Population growth is driven by both natural increase and positive migration.
-	•	Over 30% of residents commute for work or education; justifying a train station.
-	•	Housing capacity is underutilised, indicating no immediate pressure to expand housing stock.
-	•	Rising birth rates and active age distribution (20–45) indicate sustained population growth.
-	•	Infrastructure investment is critical to manage future congestion, waste, and public service demands.
+## 📊 Analytical Approach
 
-⸻
+The project workflow included:
 
-🌍 Impact
+1. **Data Cleaning**  
+   - removal of missing values  
+   - correction of invalid inputs  
+   - preparation of population-level variables  
 
-The project highlights how demographic analytics can inform real-world decision making.
-By modelling this mock census, local authorities can better anticipate population trends, infrastructure needs, and environmental implications; leading to smarter, sustainable growth.
+2. **Exploratory Analysis**  
+   - histograms  
+   - bar charts  
+   - population pyramids  
 
-⸻
+3. **Statistical Analysis**  
+   - birth rate and death rate estimation  
+   - commuter proportion  
+   - migration and net population change  
 
-👩‍💻 Author
+4. **Inference and Policy Recommendations**  
+   - transport pressure  
+   - infrastructure sustainability  
+   - housing capacity  
 
-This project was independently researched, analysed, and written as part of a data analysis coursework assignment.
-All findings are based on mock data created for educational purposes.Data-driven analysis of demographic and infrastructure planning for a mock town census project
+---
+
+## 📁 Files Included
+
+- **`report/Mock Census report.pdf`** — full written report with interpretation and recommendations  
+- **`notebooks/`** — Jupyter notebooks for data cleaning, visualisation, and analysis  
+
+---
+
+## 🧩 Key Insights
+
+- Population growth is driven by **natural increase** and **positive net migration**  
+- More than **30%** of residents commute for work or education  
+- Housing is **under-utilised**, meaning expansion is not immediately required  
+- Birth rates in key age groups indicate **continued future population growth**  
+- Infrastructure upgrades are necessary to prevent congestion and pressure on services  
+
+---
+
+## 🌍 Impact
+
+The project demonstrates how census-style datasets can be transformed into actionable planning insights.  
+These findings could help a local council anticipate transport needs, resource pressure, and long-term urban development.
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Glad-analytics**  
+All data used in this project was created for educational and analytical demonstration purposes.
+
+---
